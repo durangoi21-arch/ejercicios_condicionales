@@ -6,8 +6,3 @@ elif numero < 0:
     print("Es negativo")
 else:
     print("Es cero")
-
-
-a = "5"
-b = 2
-print(a * b)
